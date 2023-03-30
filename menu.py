@@ -1,1 +1,1 @@
-print("Rice")
+print(" friede Rice")
